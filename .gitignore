@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+fonts/*.ttf
+cookies.txt
+*.cookies.txt
+dist/

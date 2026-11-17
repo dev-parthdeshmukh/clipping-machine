@@ -1,0 +1,15 @@
+{
+  "name": "gta6-clipper",
+  "version": "1.0.0",
+  "description": "GTA 6 stream clipper for Windows: finds the biggest GTA 6 streams, picks the most viral moments with two Claude passes, and renders narrated 9:16 Shorts/TikToks/Reels with premium captions, hook bar, punch-in zooms and a POST.md. Optional FilmCraft polish pass.",
+  "keywords": [
+    "gta6",
+    "clipping",
+    "shorts",
+    "tiktok",
+    "video"
+  ],
+  "author": {
+    "name": "Parth"
+  }
+}

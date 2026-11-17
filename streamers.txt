@@ -1,0 +1,13 @@
+# Watchlist for --find: one channel per line, as  twitch:<login>  or  youtube:@<handle>
+# --find looks at each channel's newest broadcast from the past 36 h with GTA in its title.
+# Kick channels can't be listed automatically: give their links directly.
+twitch:caseoh_
+twitch:hasanabi
+twitch:jynxzi
+twitch:kaicenat
+twitch:lirik
+twitch:ludwig
+twitch:summit1g
+twitch:timthetatman
+twitch:xqc
+twitch:zackrawrr

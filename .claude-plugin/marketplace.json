@@ -1,0 +1,17 @@
+{
+  "name": "gta6-clipper-local",
+  "owner": {
+    "name": "local"
+  },
+  "plugins": [
+    {
+      "name": "gta6-clipper",
+      "source": "./",
+      "description": "GTA 6 stream clipper: narrated, captioned, ready-to-post vertical clips.",
+      "author": {
+        "name": "Parth"
+      }
+    }
+  ],
+  "description": "Local marketplace for the GTA 6 clipper plugin"
+}
